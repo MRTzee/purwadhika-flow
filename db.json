@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi",
+      "email": "budi@mail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "name": "jadlfk",
+      "email": "dkdaljf@kjladsf",
+      "password": "@ldaf",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "adjlsfkasd",
+      "email": "dfkajl@gmali",
+      "password": "alskdfj",
+      "isVerify": false,
+      "id": 3
+    },
+    {
+      "name": "fasldkjadsf",
+      "email": "sdlkjadsakjf@gkldf",
+      "password": "kajflsddf",
+      "isVerify": false,
+      "id": 4
+    }
+  ]
+}
